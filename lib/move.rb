@@ -9,5 +9,5 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(input)
-  puts "r_input} - 1"
+  puts "put} - 1"
 end
