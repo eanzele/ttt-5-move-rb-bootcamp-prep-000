@@ -8,6 +8,6 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index(user_input)
-  puts "#{user_input} - 1"
+def input_to_index(input)
+  puts "r_input} - 1"
 end
